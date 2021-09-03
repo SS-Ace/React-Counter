@@ -1,3 +1,5 @@
+# For checking the working: https://ss-ace.github.io/React-Counter/
+  References: tsbsankara: https://www.youtube.com/channel/UCeDWS6WbftXe9-6QQFMrKAQ
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
